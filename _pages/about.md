@@ -1,3 +1,12 @@
+---
+permalink: /
+
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Importance of Capping Material Properties in Remediation of Mine Tailings
 ======
