@@ -7,25 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Importance of Capping Material Properties in Remediation of Mine Tailings
+Elucidating divergent seed metal homeostasis in the desert-adapted model halophyte Atriplex lentiformis from As-contaminated and wild locations
 ======
-Soil contamination with trace elements in the vicinity of mining sites and smelters poses a serious threat to humans and the environment around the globe. Revegetation of mine tailings to minimize the dispersal of pollutants via wind or groundwater (i.e., phytoremediation) is a promising "green" and low-cost intervention to toxic exposures. Unfortunately, plant growth is inhibited on most tailings, making it necessary to provide additional healthy substrate for seed germination and seedling growth. The project outcome will be valuable for the economy and society. In addition, the researchers' findings will serve as a global template for mitigating human and environmental health issues in areas affected by mines and smelters.
-![profile](https://user-images.githubusercontent.com/98843239/170924828-d2ea9232-2657-4f80-8aba-dbe0cb9a3126.png)
+Rising arsenic concentrations in soil and groundwater pose severe health risks to plants, animals, and humans worldwide. Emergent plant-based technologies are promising to mitigate these alarming impacts of industrial As-release. Problematically, phytoremediation remains limited by our insufficient understanding of elemental allocation to and within seeds, which appears critical for plant establishment on contaminated soils. This project will yield unprecedented insight in the spatial distribution and concentration of elements within seeds of As-tolerant and non-tolerant plants. We will gain advanced knowledge on nutrient and metal homeostasis in a promising candidate species, thereby advancing the crucial science to develop effective remediation strategies.
 
-Experimental design
+Synchrotron study
 ======
-<img src='/images/profile.png'>
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+![16_00-ZnKCompton](https://user-images.githubusercontent.com/98843239/170925206-1eb94aca-0726-40e4-aaba-7fa3741c87ca.png)
+
+Accumulation of zinc in root apical meristem of Atriplex lentiormis seeds.
 
 Results
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
+![plotrandom](https://user-images.githubusercontent.com/98843239/170926030-2d7dd134-1bd9-483c-9245-ecb019b3d1c0.JPG)
 
 Create content & metadata
 ------
