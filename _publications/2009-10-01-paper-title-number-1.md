@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Metalliferous habitats and seed microbes affect the seed morphology and reproductive strategy of Arabidopsis halleri"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: 10.1007/s11104-021-05203-5
+date: March 2022
+venue: 'Plant and Soil'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Murawska-Wlodarczyk, K., Korzeniak, U., Chlebicki, A. et al. Metalliferous habitats and seed microbes affect the seed morphology and reproductive strategy of Arabidopsis halleri. Plant Soil 472, 175–192 (2022). https://doi.org/10.1007/s11104-021-05203-5'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Plant reproduction in metalliferous habitats is challenged by elevated concentrations of metal trace elements in soil. As part of their survival strategy, metal-tolerant plants have adjusted reproductive traits, including seed morphology, dormancy, and germination rate. These traits are particularly relevant, yet poorly understood, in metal hyperaccumulators that are promising candidates for phytoremediation. We assessed seed shape characteristics, dormancy, and germination rate in the hyperaccumulating model species Arabidopsis halleri. Seed morphological parameters were evaluated using seeds collected from two metalliferous and two non-metalliferous sites (~ 1000 seeds per location). We also addressed the potential influence of seed surface-associated microbes and endophytic fungi on germination success. Seeds from non-metallicolous populations were on average 18% bigger than those from metal-contaminated post-mining sites, which contrasts the general expectation about reproductive parts in metallicolous plants. Irrespective of their origin, surface-sterilized seeds had up to ~ 20% higher germination rates and germinated earlier than non-sterilized seeds, hinting at a negative effect of seed-associated microbial communities. Surface sterilization also facilitated the emergence of an endophytic fungus (Aspergillus niger) that is a known seed-borne pathogen. Interestingly, A. niger actually promoted germination in surface-sterilized seeds from some locations. Despite species-wide metal tolerance in A. halleri, metalliferous conditions seem to differently affect reproductive traits compared to non-metalliferous environments (e.g., smaller seeds). Yet, higher germination rates in these populations hint at the potential of A. halleri to successfully colonize post-mining habitats. This process is modulated by site-specific interactions with seed microbiota.Despite species-wide metal tolerance in A. halleri, metalliferous conditions seem to differently affect reproductive traits compared to non-metalliferous environments (e.g., smaller seeds). Yet, higher germination rates in these populations hint at the potential of A. halleri to successfully colonize post-mining habitats. This process is modulated by site-specific interactions with seed microbiota.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Murawska-Wlodarczyk, K., Korzeniak, U., Chlebicki, A. et al. Metalliferous habitats and seed microbes affect the seed morphology and reproductive strategy of Arabidopsis halleri. Plant Soil 472, 175–192 (2022). https://doi.org/10.1007/s11104-021-05203-5
