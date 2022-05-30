@@ -1,6 +1,5 @@
 ---
 permalink: /
-
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,6 +10,7 @@ redirect_from:
 Importance of Capping Material Properties in Remediation of Mine Tailings
 ======
 Soil contamination with trace elements in the vicinity of mining sites and smelters poses a serious threat to humans and the environment around the globe. Revegetation of mine tailings to minimize the dispersal of pollutants via wind or groundwater (i.e., phytoremediation) is a promising "green" and low-cost intervention to toxic exposures. Unfortunately, plant growth is inhibited on most tailings, making it necessary to provide additional healthy substrate for seed germination and seedling growth. The project outcome will be valuable for the economy and society. In addition, the researchers' findings will serve as a global template for mitigating human and environmental health issues in areas affected by mines and smelters.
+![profile](https://user-images.githubusercontent.com/98843239/170924828-d2ea9232-2657-4f80-8aba-dbe0cb9a3126.png)
 
 Experimental design
 ======
