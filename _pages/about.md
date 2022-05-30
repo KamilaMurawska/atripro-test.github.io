@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-======
 Rising arsenic concentrations in soil and groundwater pose severe health risks to plants, animals, and humans worldwide. Emergent plant-based technologies are promising to mitigate these alarming impacts of industrial As-release. Problematically, phytoremediation remains limited by our insufficient understanding of elemental allocation to and within seeds, which appears critical for plant establishment on contaminated soils. This project will yield unprecedented insight in the spatial distribution and concentration of elements within seeds of As-tolerant and non-tolerant plants. We will gain advanced knowledge on nutrient and metal homeostasis in a promising candidate species, thereby advancing the crucial science to develop effective remediation strategies.
 
 Synchrotron study
